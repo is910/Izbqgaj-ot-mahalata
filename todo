@@ -1,0 +1,25 @@
+subway surfers style
+
+Бягаш от махалата, докато те гонят цигани
+Вместо:
+background -> панелки
+влакове -> Автобуси
+релси -> пътища с дупки
+монети -> килчета желязо
+
+Вграден double jump
+
+Трудности: Лесно / Средно / Трудно / Невъзможно
+Лесно - walking simulator, няма монети
+Средно - има монети, само някои power-ups
+Трудно - има шанс power-up, да има лош ефект (adujustable: 20%-50)
+Невъзможно - Всички power-ups, саботират
+
+Power-ups:
+Speed boost (колело)
+Magnit
+2x multiplier
+jetpack
+pogo stick
+mystery powerup
+super jump
